@@ -2,7 +2,7 @@
 ## esto es un h2
 ### esto es un h3
 esto es un puto parrafo
-**negrita1111**
+**negrita1111** **pto haro**
 >te dejé coment, esto es un comentario 
 - ok, esto es un punto
 - item 1
