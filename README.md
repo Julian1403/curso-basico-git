@@ -1,6 +1,7 @@
 # esto es un titulo h1
 ## esto es un h2
 ### esto es un h3
+### Eta es otro h3
 esto es un puto parrafo
 **negrita1111** **pto haro**
 >te dejé coment, esto es un comentario 
